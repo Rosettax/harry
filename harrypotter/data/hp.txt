@@ -1,0 +1,61 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red241\green236\blue228;\red0\green0\blue0;
+}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c95686\c94118\c91373;\cssrgb\c0\c0\c0;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
+Harry Potter and the Sorcerer's Stone. \cf0 \cb1 \
+\cf2 \cb3 CHAPTER ONE - THE BOY WHO LIVED. \cf0 \cb1 \
+\cf2 \cb3 Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you'd expect to be involved in anything strange or mysterious, because they just didn't hold with such nonsense. \cf0 \cb1 \
+\cf2 \cb3 Mr. Dursley was the director of a firm called Grunnings, which made \cf0 \cb1 \
+\cf2 \cb3 drills. He was a big, beefy man with hardly any neck, although he did \cf0 \cb1 \
+\cf2 \cb3 have a very large mustache. Mrs. Dursley was thin and blonde and had \cf0 \cb1 \
+\cf2 \cb3 nearly twice the usual amount of neck, which came in very useful as she \cf0 \cb1 \
+\cf2 \cb3 spent so much of her time craning over garden fences, spying on the \cf0 \cb1 \
+\cf2 \cb3 neighbors. The Dursleys had a small son called Dudley and in their \cf0 \cb1 \
+\cf2 \cb3 opinion there was no finer boy anywhere. \cf0 \cb1 \
+\cf2 \cb3 The Dursleys had everything they wanted, but they also had a secret, and \cf0 \cb1 \
+\cf2 \cb3 their greatest fear was that somebody would discover it. They didn't \cf0 \cb1 \
+\cf2 \cb3 think they could bear it if anyone found out about the Potters. Mrs. \cf0 \cb1 \
+\cf2 \cb3 Potter was Mrs. Dursley's sister, but they hadn't met for several years; \cf0 \cb1 \
+\cf2 \cb3 in fact, Mrs. Dursley pretended she didn't have a sister, because her \cf0 \cb1 \
+\cf2 \cb3 sister and her good-for-nothing husband were as unDursleyish as it was \cf0 \cb1 \
+\cf2 \cb3 possible to be. The Dursleys shuddered to think what the neighbors would \cf0 \cb1 \
+\cf2 \cb3 say if the Potters arrived in the street. The Dursleys knew that the \cf0 \cb1 \
+\cf2 \cb3 Potters had a small son, too, but they had never even seen him. This boy \cf0 \cb1 \
+\cf2 \cb3 was another good reason for keeping the Potters away; they didn't want \cf0 \cb1 \
+\cf2 \cb3 Dudley mixing with a child like that. \cf0 \cb1 \
+\cf2 \cb3 When Mr. and Mrs. Dursley woke up on the dull, gray Tuesday our story \cf0 \cb1 \
+\cf2 \cb3 starts, there was nothing about the cloudy sky outside to suggest that \cf0 \cb1 \
+\cf2 \cb3 strange and mysterious things would soon be happening all over the \cf0 \cb1 \
+\cf2 \cb3 country. Mr. Dursley hummed as he picked out his most boring tie for \cf0 \cb1 \
+\cf2 \cb3 work, and Mrs. Dursley gossiped away happily as she wrestled a screaming \cf0 \cb1 \
+\cf2 \cb3 Dudley into his high chair. \cf0 \cb1 \
+\cf2 \cb3 None of them noticed a large, tawny owl flutter past the window. \cf0 \cb1 \
+\cf2 \cb3 At half past eight, Mr. Dursley picked up his briefcase, pecked Mrs. \cf0 \cb1 \
+\cf2 \cb3 Dursley on the cheek, and tried to kiss Dudley good-bye but missed, \cf0 \cb1 \
+\cf2 \cb3 because Dudley was now having a tantrum and throwing his cereal at the \cf0 \cb1 \
+\cf2 \cb3 walls. "Little tyke," chortled Mr. Dursley as he left the house. He got \cf0 \cb1 \
+\cf2 \cb3 into his car and backed out of number four's drive. \cf0 \cb1 \
+\cf2 \cb3 It was on the corner of the street that he noticed the first sign of \cf0 \cb1 \
+\cf2 \cb3 something peculiar \'97 a cat reading a map. For a second, Mr. Dursley \cf0 \cb1 \
+\cf2 \cb3 didn't realize what he had seen \'97 then he jerked his head around to \cf0 \cb1 \
+\cf2 \cb3 look again. There was a tabby cat standing on the corner of Privet \cf0 \cb1 \
+\cf2 \cb3 Drive, but there wasn't a map in sight. What could he have been thinking \cf0 \cb1 \
+\cf2 \cb3 of? It must have been a trick of the light. Mr. Dursley blinked and \cf0 \cb1 \
+\cf2 \cb3 stared at the cat. It stared back. As Mr. Dursley drove around the \cf0 \cb1 \
+\cf2 \cb3 corner and up the road, he watched the cat in his mirror. It was now \cf0 \cb1 \
+\cf2 \cb3 reading the sign that said Privet Drive \'97 no, looking at the sign; cats \cf0 \cb1 \
+\cf2 \cb3 couldn't read maps or signs. Mr. Dursley gave himself a little shake and \cf0 \cb1 \
+\cf2 \cb3 put the cat out of his mind. As he drove toward town he thought of \cf0 \cb1 \
+\cf2 \cb3 nothing except a large order of drills he was hoping to get that day. \cf0 \cb1 \
+\cf2 \cb3 But on the edge of town, drills were driven out of his mind by something \cf0 \cb1 \
+\cf2 \cb3 else. As he sat in the usual morning traffic jam, he couldn't help \cf0 \cb1 \
+\cf2 \cb3 noticing that there seemed to be a lot of strangely dressed people \cf0 \cb1 \
+\cf2 \cb3 about. People in cloaks. Mr. Dursley couldn't bear people who dressed in \cf0 \cb1 \
+}
